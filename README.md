@@ -1,2 +1,3 @@
 # hello-world
-a begin
+Hi,everyone!
+I like machine learning!
